@@ -3,10 +3,7 @@
   "buildCommand": "npm run build",
   "functions": {
     "server.ts": {
-      "includeFiles": [
-        "dist/index.html",
-        "firebase-applet-config.json"
-      ]
+      "includeFiles": "{dist/index.html,firebase-applet-config.json}"
     }
   }
 }
