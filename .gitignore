@@ -1,0 +1,12 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Google AI Studio temporary artifacts
+.aistudio/
+public/assets/aistudio/firebase__Cloudinary_f78b48a8.txt
