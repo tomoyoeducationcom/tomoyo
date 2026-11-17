@@ -10,3 +10,7 @@ coverage/
 # Google AI Studio temporary artifacts
 .aistudio/
 public/assets/aistudio/firebase__Cloudinary_f78b48a8.txt
+
+# Generated Vite assets copied into public for Vercel
+public/assets/*.js
+public/assets/*.css
